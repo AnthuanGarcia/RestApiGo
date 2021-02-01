@@ -1,4 +1,4 @@
-module github.com/AnthuanGarcia/IntegradoraII
+module github.com/AnthuanGarcia/RestApiGo
 
 go 1.15
 

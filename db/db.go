@@ -10,7 +10,7 @@ import (
 
 	"go.mongodb.org/mongo-driver/bson/primitive"
 
-	model "github.com/AnthuanGarcia/IntegradoraII/src/models"
+	model "github.com/AnthuanGarcia/RestApiGo/src/models"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 

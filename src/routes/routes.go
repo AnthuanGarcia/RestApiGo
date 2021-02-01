@@ -1,7 +1,7 @@
 package routes
 
 import (
-	handleTask "github.com/AnthuanGarcia/IntegradoraII/src/handlers/tasks"
+	handleTask "github.com/AnthuanGarcia/RestApiGo/src/handlers/tasks"
 	"github.com/gin-gonic/gin"
 )
 

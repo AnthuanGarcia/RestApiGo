@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	db "github.com/AnthuanGarcia/IntegradoraII/db"
-	model "github.com/AnthuanGarcia/IntegradoraII/src/models"
+	db "github.com/AnthuanGarcia/RestApiGo/db"
+	model "github.com/AnthuanGarcia/RestApiGo/src/models"
 	"github.com/gin-gonic/gin"
 )
 

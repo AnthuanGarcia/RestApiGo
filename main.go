@@ -1,7 +1,7 @@
 package main
 
 import (
-	gin "github.com/AnthuanGarcia/IntegradoraII/src/routes"
+	gin "github.com/AnthuanGarcia/RestApiGo/src/routes"
 )
 
 func main() {
